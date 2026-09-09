@@ -5,4 +5,4 @@ Planned and implemented a formatting strategy for the demo website
 ## 🚀 Live Demo
 
 You can view the published website here:
-[Live Website on GitHub Pages] https://github.com/andrewcoda880-collab/comp484-hw1.git
+[Live Website on GitHub Pages] https://andrewcoda880-collab.github.io/comp484-hw1/
